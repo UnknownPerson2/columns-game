@@ -39,3 +39,5 @@ Use the following keys to play the game:
 - **MATCH**: Jewels that are part of a match will be highlighted and cleared.
 
 ---
+
+![alt text](column-game.png)
